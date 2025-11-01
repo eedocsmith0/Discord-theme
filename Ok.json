@@ -1,0 +1,15 @@
+{
+    "manifest": {
+        "author": "eedocsmith",
+        "name": "Ok",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.imgur.com\/WK4GueF.jpeg"
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
